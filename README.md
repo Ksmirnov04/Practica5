@@ -48,7 +48,7 @@ $ git commit -m "Initial commit: добавлен .gitignore"
 ```bash
 $ git remote add origin https://github.com/Ksmirnov/first.git
 $ git remote -v
-origin  https://github.com/Ksmirnov/first.git (fetch)
-origin  https://github.com/Ksmirnov/first.git (push)
+origin  https://github.com/Ksmirnov/Practica5.git (fetch)
+origin  https://github.com/Ksmirnov/Practica5.git (push)
 ```
 
